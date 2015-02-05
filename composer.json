@@ -1,0 +1,22 @@
+{
+  "name": "mulesoft/api-console",
+  "type": "project",
+  "version": "0.0.2",
+  "description": "Api-Console for RAML based app",
+  "keywords": [
+    "api-console",
+    "raml",
+    "api"
+  ],
+  "homepage": "https://github.com/mulesoft/api-console",
+  "license": "Apache 2.0",
+  "authors": [
+    {
+      "name": "MuleSoft, Inc."
+    }
+  ],
+  "support": {
+    "issues": "https://github.com/mulesoft/api-console/issues",
+    "source": "https://github.com/mulesoft/api-console"
+  }
+}
